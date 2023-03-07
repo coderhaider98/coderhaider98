@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderhaider98
-- 👀 I’m interested in web developmet
-- 🌱 I’m currently learning website api integration
-- 💞️ I’m looking to collaborate on website development
+- 👀 I’m interested in App developmet using Flutter
+- 🌱 I’m currently learning Mobile api integration
+- 💞️ I’m looking to collaborate on Flutter App development
 - 📫 you can take my git hub to reach my work
 
 <!---
